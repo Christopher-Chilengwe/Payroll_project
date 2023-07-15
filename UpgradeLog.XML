@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Payroll System">
+</Property><Property Name="Solution File" Value="D:\Project\Payroll System\Payroll System.sln">
+</Property><Property Name="Date" Value="Tuesday, August 15, 2006">
+</Property><Property Name="Time" Value="22:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Payroll System" Source="Payroll System.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Payroll System" Source="Payroll System.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Payroll System.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Payroll System.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Payroll System" Source="Payroll System.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
